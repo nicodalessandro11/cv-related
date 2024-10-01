@@ -1,0 +1,44 @@
+Section,Item,Center/Job Position,Description,Date (Year),Proficiency (1-5 / 1-10)
+Personal Information,Name,,Nicolas D'Alessandro,,
+Personal Information,Email,,nicodalesandro11@gmail.com,,
+Personal Information,Phone,,+34 695 972 556,,
+Personal Information,LinkedIn,,linkedin.com/in/nicolasdalessandro,,
+Who Am I,Profile,,"Passionate lifelong learner and creative data enthusiast with experience in business intelligence, data science, analytics, and engineering.",,
+Who Am I,Key Skills,,"Solving business challenges using data analytics, modeling, and visualization.",,
+Who Am I,Quote,,"I love merging art, data, and technology to create impactful solutions.",,
+Education,Master's Degree,Universidad Camilo José Cela,Master's Degree in Business Analytics & Big Data,Currently,
+Education,Postgraduate,EADA Business School,Postgraduate in Data Analytics,2020,
+Education,Bachelor's Degree,Universitat Oberta de Catalunya,Bachelor's Degree in Techniques for Software Application Development,2021,
+Education,CFGS,IFP Barcelona,CFGS - Higher Education in Multiplatform App Development (DAM),2016,
+Education,Technical Degree,Ford Argentina S.C.A,Industrial & Electromechanical Technician,2007,
+Work Experience,Play'n GO,Senior Product Data Analyst,"Game analytics and product insights. Engineering Department, Sweden, Remote",Currently,
+Work Experience,Amazon,Senior Business Data Analyst,"BI solutions & data analysis for operational improvements. Central Ops Department, Barcelona",2020 - 2024,
+Work Experience,Amazon,Logistics Data Analyst & Lead Learning Coordinator,"Logistics data analysis and new joiners training. Risk & Flow Department, Barcelona",2020 - 2024,
+Work Experience,ISS Facility Services,Business Solutions Data Analyst,"BI solutions for process optimization. Excellence Service Department, Barcelona",2016 - 2020,
+Work Experience,ISS Facility Services,Logistics Data Analyst,"Logistics support and shipment tracking, Shipping Department at HP Spain, Barcelona",2016 - 2020,
+Work Experience,Grupo Cargo SA at Volkswagen Argentina,Quality Assurance Specialist,"Quality monitoring and compliance using ISO standards, JIT Department, Bs. As.",2008 - 2014,
+Work Experience,Grupo Cargo SA at Volkswagen Argentina,Logistics Analyst,"Logistics analysis and Supply Chain Management. Milkrun & Kanban Department, Bs. As.",2008 - 2014,
+Work Experience,Ford Argentina,Administrative," Controller & budgeting, L&D Department, Bs. As.",2004 - 2007,
+Work Experience,Ford Argentina,Student Internship,"Customer Service Division, Bs. As.",2004 - 2007,
+Courses & Certifications,Specialization in AI,Valencian Graduate School of AI,Specialization in AI for ICT Professionals,Currently,
+Courses & Certifications,Web Front End Bootcamp,IRONHACK,Web Front End Development Bootcamp,2023,
+Courses & Certifications,Data Mining for BI,EUROFORMAC,Data Mining for Business Intelligence,2022,
+Courses & Certifications,Big Data & ML Development,UOC,Big Data & ML Development,2020,
+Courses & Certifications,Python Programming,Cisco Networking Academy,Programming Essentials in Python,2020,
+Courses & Certifications,Applied ML Workshop,DataHack,Workshop in Applied ML,2019,
+Courses & Certifications,Web Data Extraction Summit,ScrapingHub,Web Data Extraction Summit,2019,
+Courses & Certifications,Purchasing & Logistics,UOC,Certificate of Education in Purchasing & Logistics,2018,
+Courses & Certifications,CAE Advanced English,Cambridge,CAE Advanced English,2018,
+Courses & Certifications,Workaway Language Program,"North Carolina, USA",Workaway Language Exchange Program,2016,
+Soft Skills,Critical Thinking,,Strong analytical skills,,5
+Soft Skills,Problem Solving,,Effective problem-solving,,5
+Soft Skills,Attention to Detail,,Data storytelling & presentation,,4
+Soft Skills,Project Management,,Project coordination & planning,,4
+Soft Skills,Storytelling & Communication,,Adaptable to change,,4
+Soft Skills,Adaptability & Collaboration,,Teamwork and collaboration,,4
+Tech Stack,SQL,,"SQL, ETL/ELT & Database Management",,8
+Tech Stack,"Python, R, Java, etc.",,Proficient in multiple scripting languages,,7
+Tech Stack,Math & Statistics,,Mathematics & statistical modeling,,7
+Tech Stack,"Tableau, DataViz",,"Tableau, QuickSight, other DataViz tools",,8
+Tech Stack,Cloud Computing,,Cloud Computing tools,,6
+Tech Stack,Web Full Stack,,"HTML, CSS, REACTjs, VUE.js",,7
